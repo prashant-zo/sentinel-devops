@@ -1,4 +1,4 @@
-# Sentinel DevOps
+# Sentinel SRE
 
 [![CI](https://github.com/prashant-zo/sentinel-devops/actions/workflows/ci.yml/badge.svg)](https://github.com/prashant-zo/sentinel-devops/actions/workflows/ci.yml)
 [![Deploy](https://github.com/prashant-zo/sentinel-devops/actions/workflows/deploy.yml/badge.svg)](https://github.com/prashant-zo/sentinel-devops/actions/workflows/deploy.yml)
